@@ -1,0 +1,33 @@
+.o-bigContainer{
+    border-radius: 31px;
+    width: 21.5rem;
+    height:38rem;
+    background-color: white;
+    box-shadow: 0px 21px 10px rgba(0, 0, 0, 0.18);
+
+}
+.o-label-mensaje{    
+    margin: 5rem 0 2rem 0;
+    font-weight: bolder;
+    font-size: 26px;
+    color: #252388;
+}
+.Btn-key{
+    margin: 2rem 0 0 0;
+   
+}
+.o-imgb{
+    margin: 2rem 0 0 0;
+    height: 18rem;
+    border-bottom-right-radius: 31px;
+    border-bottom-left-radius: 31px;
+    background-image: url('../imgs/background.png');
+    background-repeat: no-repeat, repeat;
+    background-position: center;
+    background-size: cover;    
+    background-origin: content-box;
+    
+    }
+.btn{
+ background-color:  #252388;
+}

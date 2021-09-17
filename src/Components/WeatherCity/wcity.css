@@ -1,0 +1,42 @@
+.o-bigContainer{
+    border-radius: 31px;
+    width: 21.5rem;
+    height:38rem;
+    background-color: white;
+    box-shadow: 0px 21px 10px rgba(0, 0, 0, 0.18);
+
+}
+.o-Title{
+  margin-top: -25rem;
+}
+.o-cali{
+    border-top-left-radius: 31px;
+    border-top-right-radius: 31px;
+    height:27rem;
+    width: 21.5rem;
+    background-image: url('../imgs/background.png');
+    background-repeat: no-repeat, repeat;
+    background-position: center;
+    background-size: cover;    
+    background-origin: content-box;
+}
+.o-weather{
+    font-weight: bolder;
+    color: white;
+    margin: 16.3rem 0 0 0;
+    width: 11rem;
+    height: 1.8rem;
+    background: linear-gradient(360deg, #321FA0 27.39%, #EFCEA3 246.55%);
+    border-radius: 14px;
+}
+.o-cardDetail{
+    margin-top: 1rem;
+    margin-left: 1rem;
+    
+}
+.o-bar{
+    display: flex;
+    margin: 0.1rem 0 0.5rem 0.5rem;
+    width: 298.5px;
+    border: 1px solid #B3B3B3;
+}
